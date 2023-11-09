@@ -1,4 +1,4 @@
-"id","first_name","last_name","team","dob","start_price","cost","positions","original_positions","season_rank","games_played","total_points","avg_points","high_score","low_score","selections","owned_by","adp","leagues_rostered"
+"player_id","first_name","last_name","team","dob","start_price","cost","positions","original_positions","season_rank","games_played","total_points","avg_points","high_score","low_score","selections","owned_by","adp","leagues_rostered"
 293222,"Rory","Laird","Adelaide Crows","1993-12-29",1066000,959000,"MID","MID",11,22,2403,109.2,142,57,60038,36.31,1,99.3
 1002232,"Andrew","Brayshaw","Fremantle","1999-11-08",995000,929000,"MID","MID",10,23,2536,110.3,157,72,68552,41.46,2,99.3
 996701,"Clayton","Oliver","Melbourne","1997-07-22",994000,921000,"MID","MID",4,13,1480,113.8,149,66,38763,23.45,3,98.9
